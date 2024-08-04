@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Volume calculator</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_radius_of_sphere">Enter radius of sphere</string>
+    <string name="sphere_volume_calculator">Sphere volume calculator</string>
+</resources>
